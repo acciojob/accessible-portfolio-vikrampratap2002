@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 10px;
+    font-weight: bold;
+}
